@@ -34,6 +34,16 @@ class lab1
   }
  }
 }
+
+outputenter a value
+4
+enter b value
+6
+enter c value
+6
+given quadratic eq is:4x^2+6x+6
+roots are imaginary
+
     
  
   
