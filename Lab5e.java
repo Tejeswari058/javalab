@@ -12,3 +12,7 @@ System.out.println("before sorting strings");
  System.out.println(args[i]);
 }
 }
+output:
+java Lab5e
+before sorting strings
+after sorting
