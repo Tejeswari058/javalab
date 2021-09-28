@@ -121,4 +121,35 @@ class Lab3
       ob.display();
     }
 } 
+output:
+enter the size of array
+4
+ enter elements for array:
+3
+4
+5
+6
+elements in array:
+3
+4
+5
+6
+maximum element is:6
+minimum element is :3
+sum of array elements are:18
+after sorting the elements
+elements in array:
+3
+4
+5
+6
+enter search element
+3
+element is found
+after removing duplicate
+elements in array:
+3
+4
+5
+6
 
