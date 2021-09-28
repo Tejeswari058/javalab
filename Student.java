@@ -41,3 +41,13 @@ System.out.println("S3 is copied to S4");
 s4.display();
 }
 }
+output:
+1ravi
+3sita
+Enter Student number:
+58
+Enter Student name:
+tejeswari
+58tejeswari
+S3 is copied to S4
+58tejeswari
