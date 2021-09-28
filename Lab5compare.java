@@ -37,3 +37,18 @@ public class Lab5compare {
 						+ " : " + string1.equals(string4)); 
 	} 
 } 
+output:
+Enter First String
+python
+Enter Second String
+ruby
+Enter Third String
+c
+Enter Four String
+java
+Enter Five String
+dbms
+Comparing python and ruby : false
+Comparing c and java : false
+Comparing java and dbms : false
+Comparing python and java : false
