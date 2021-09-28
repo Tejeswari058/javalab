@@ -108,5 +108,37 @@ class Lab4
    l.display();
   }
 }
+output:
+enter m
+2
+enter n
+3
+enter p
+2
+enter q
+3
+the first matrix ele
+2
+3
+2
+1
+2
+1
+the second matrix ele
+232123
+3
+3
+3
+4
+5
+addition of two matrix
+232125 6 5
+4 6 6
+subtraction of two matrix
+-232121 0 -1
+-2 -2 -4
+multiplication of two matrix
+-232121 0 -1
+-2 -2 -4
   
 	
