@@ -63,4 +63,18 @@ class Lab5
     ob.sort();
   }
 }
+output:enter a string for reversing the string
+teja
+ajet
+enter a string for palindrom
+yashu
+given string is not palindrom
+enter n value of sorting the string
+1
+enter strings for sorting the strings
+yashoda
+after sorting of strings
+yashoda
+
+
   	
