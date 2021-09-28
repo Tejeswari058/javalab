@@ -28,3 +28,7 @@ import java.util.*;
    ob.area(2.0,4.0);
   }
 }
+output:
+area of rectangle:2.0
+area of square:9.0
+area of triangle:4.0
