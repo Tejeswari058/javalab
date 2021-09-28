@@ -67,3 +67,18 @@ class Lab7
     ob5.display();
  }
 }
+output:
+enter a,b values
+34 46
+first complex
+34+46i
+enter c,d values
+34 22
+second complex
+34+22i
+sum of two complex numbers
+68+68i
+subtraction of two complex numbers
+0+24i
+multiplication of two complex numbers
+144+2312i
